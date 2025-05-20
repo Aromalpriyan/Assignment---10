@@ -98,5 +98,5 @@ public class AssignementTen {
     }     
     }
 ```
-[githublink]()
+[githublink](https://github.com/Aromalpriyan/Assignment---10)
 
